@@ -25,6 +25,7 @@
 #include <list>
 #include <mutex>
 #include <string>
+#include <vector>
 
 struct selabel_handle;
 class NetlinkManager;

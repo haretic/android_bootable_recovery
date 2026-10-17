@@ -31,6 +31,8 @@
 #include <cutils/fs.h>
 #include <private/android_filesystem_config.h>
 
+#include <algorithm>
+
 #include <fcntl.h>
 #include <stdlib.h>
 #include <sys/mount.h>
